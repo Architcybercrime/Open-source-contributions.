@@ -1,0 +1,159 @@
+[
+  {
+    "id": "nocap-19",
+    "project": "noCap",
+    "repo": "fatihserhatturan/noCap",
+    "number": 19,
+    "title": "docs: add keyboard shortcuts section to README",
+    "closes": [
+      "#18"
+    ],
+    "status": "merged",
+    "merged": "2026-10-21",
+    "tests": 0
+  },
+  {
+    "id": "repowise-4802",
+    "project": "repowise",
+    "repo": "repowise-dev/repowise",
+    "number": 4802,
+    "title": "fix(health): take the largest arm of C/C++ #if blocks",
+    "closes": [
+      "#4790"
+    ],
+    "status": "merged",
+    "merged": "2026-10",
+    "tests": 8
+  },
+  {
+    "id": "argus-122",
+    "project": "argus-codescan-mcp",
+    "repo": "argus-code-scanning/argus-codescan-mcp",
+    "number": 122,
+    "title": "feat(rules): Python access-control rules (DRF, Django CSRF, Flask-Login)",
+    "closes": [
+      "#114"
+    ],
+    "status": "merged",
+    "merged": "2026-10-30",
+    "tests": 34
+  },
+  {
+    "id": "argus-123",
+    "project": "argus-codescan-mcp",
+    "repo": "argus-code-scanning/argus-codescan-mcp",
+    "number": 123,
+    "title": "feat(rules): detect JWTs decoded without signature verification",
+    "closes": [
+      "#117"
+    ],
+    "status": "merged",
+    "merged": "2026-10-30",
+    "tests": 27
+  },
+  {
+    "id": "argus-128",
+    "project": "argus-codescan-mcp",
+    "repo": "argus-code-scanning/argus-codescan-mcp",
+    "number": 128,
+    "title": "feat(rules): Spring Security and ASP.NET Core access-control opt-outs",
+    "closes": [
+      "#115"
+    ],
+    "status": "merged",
+    "merged": "2026-11-03",
+    "tests": 27
+  },
+  {
+    "id": "argus-129",
+    "project": "argus-codescan-mcp",
+    "repo": "argus-code-scanning/argus-codescan-mcp",
+    "number": 129,
+    "title": "feat(rules): Rails, Laravel and Node access-control opt-outs",
+    "closes": [
+      "#116"
+    ],
+    "status": "merged",
+    "merged": "2026-11-03",
+    "tests": 34
+  },
+  {
+    "id": "argus-130",
+    "project": "argus-codescan-mcp",
+    "repo": "argus-code-scanning/argus-codescan-mcp",
+    "number": 130,
+    "title": "fix(rules): flag SQL built from variables only, per language",
+    "closes": [
+      "#108"
+    ],
+    "status": "merged",
+    "merged": "2026-11-03",
+    "tests": 49
+  },
+  {
+    "id": "argus-131",
+    "project": "argus-codescan-mcp",
+    "repo": "argus-code-scanning/argus-codescan-mcp",
+    "number": 131,
+    "title": "feat(rules): detect exposed admin, debug and management endpoints",
+    "closes": [
+      "#118"
+    ],
+    "status": "merged",
+    "merged": "2026-11-03",
+    "tests": 45
+  },
+  {
+    "id": "argus-156",
+    "project": "argus-codescan-mcp",
+    "repo": "argus-code-scanning/argus-codescan-mcp",
+    "number": 156,
+    "title": "feat(rules): GitHub Actions rules for unpinned actions and script injection",
+    "closes": [
+      "#143",
+      "#144"
+    ],
+    "status": "open",
+    "merged": "",
+    "tests": 51
+  },
+  {
+    "id": "argus-157",
+    "project": "argus-codescan-mcp",
+    "repo": "argus-code-scanning/argus-codescan-mcp",
+    "number": 157,
+    "title": "feat(malware): detect obfuscated JavaScript and crypto-wallet hijacking",
+    "closes": [
+      "#145"
+    ],
+    "status": "open",
+    "merged": "",
+    "tests": 24
+  },
+  {
+    "id": "pabot-744",
+    "project": "pabot",
+    "repo": "mkorpela/pabot",
+    "number": 744,
+    "title": "Pass --pabotlibhost/--pabotlibport to workers when using an external PabotLib server",
+    "closes": [
+      "#743"
+    ],
+    "status": "open",
+    "merged": "",
+    "tests": 2
+  },
+  {
+    "id": "java-template-81",
+    "project": "Java-Template",
+    "repo": "Frc5572/Java-Template",
+    "number": 81,
+    "title": "Fix forward tilt limit clamp in SwerveRateLimiter",
+    "closes": [
+      "#68"
+    ],
+    "status": "closed",
+    "merged": "",
+    "tests": 0
+  }
+]
